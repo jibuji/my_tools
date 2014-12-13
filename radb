@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo `which adb` kill-server
+sudo `which adb` devices

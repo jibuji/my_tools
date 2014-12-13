@@ -1,0 +1,5 @@
+#!/bin/bash
+sudo update-alternatives --set java /home/jiengfei/programs/jdk1.7.0_72/bin/java
+sudo update-alternatives --set javac /home/jiengfei/programs/jdk1.7.0_72/bin/javac
+sudo update-alternatives --set javaws /home/jiengfei/programs/jdk1.7.0_72/bin/javaws
+sudo update-alternatives --set jar /home/jiengfei/programs/jdk1.7.0_72/bin/jar
